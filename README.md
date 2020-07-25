@@ -1,3 +1,5 @@
+I'm creating this project to test out the Firestore user auth capability so I can apply it to my chat app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
